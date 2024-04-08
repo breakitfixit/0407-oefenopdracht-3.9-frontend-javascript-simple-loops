@@ -9,7 +9,6 @@
 
 
 
-
 // ==========================================
 // Opdracht 2. Maak een for-loop die tijdens iedere herhaling de waarde van i logt in de zin: "De waarde van i is [nummer]"
 // Verwachte uitkomst:
